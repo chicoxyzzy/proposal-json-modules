@@ -14,6 +14,7 @@
 
 ## Prior art
 
+- [ES Module Attributes proposal](https://github.com/tc39/proposal-module-attributes)
 - [Status update on non-JS module types (e.g., JSON, CSS, WebIDL)](https://docs.google.com/presentation/d/1w8jWjD41htD7VxOejFqiHi6uGgHVWtZ_XmgFxgKkS7Q/edit#slide=id.p) by Daniel Ehrenberg.
 - [Module resolution part](https://github.com/tc39/proposal-javascript-standard-library#module-resolution) of Builtin Modules proposal by Michael Saboff and Mattijs Hoitink.
 - [JSON modules issue](https://github.com/whatwg/html/issues/4315) in the HTML Standard repository,
