@@ -1,3 +1,6 @@
+## JSON modules are part of Module Attributes proposal now
+https://github.com/tc39/proposal-module-attributes
+
 # ECMAScript proposal: JSON modules in ECMAScript
 
 **Authors**: TBA
